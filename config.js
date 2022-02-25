@@ -14,7 +14,7 @@ global.APIKeys = {
 	'https://zeks.me': 'Akirachan',
 }
 
-global.owner = ['62887435047326','918156874290','6281327327914']
+global.owner = ['6282275576880','12202006957']
 global.packname = setting.botname
 global.author = setting.ownername
 global.swelcome = '*JANGAN LUPA INTRO @tag* \n\n🔹nama : \n🔹UMUR : \n🔹GENDER : \n🔹ASKOT : \n🏅: _@member Members_\n⏰ : _@time Server time_\n\n```JANGAN LUPA BACA DESKRIPSI```'
